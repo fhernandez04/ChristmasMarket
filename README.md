@@ -1,4 +1,5 @@
 ## System description
+Project developed for the TUM optional bonus in PSE W24/25.
 
 This system simulates a Christmas market where users can purchase products from different vendors. The system includes entities such as `User`, `Vendor`, `Product`, and `Event`. Users can add products to their shopping cart, remove them, and proceed to checkout. The system also tracks the sales made by each vendor and allows users to consume the products they have purchased. The main goal is to provide a seamless shopping experience for users while managing the inventory and sales for vendors.
 
