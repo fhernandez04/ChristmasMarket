@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.tum.cit.aet.pse.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-10T13:00:27" hostname="francisco-Modern-15-A5M" time="0.017">
+  <properties/>
+  <testcase name="test()" classname="de.tum.cit.aet.pse.MainTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
