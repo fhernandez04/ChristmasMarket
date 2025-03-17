@@ -1,20 +1,4 @@
-# Christmas Bonus Project App of <YOUR NAME> for PSE WS24/25
-
-To get the bonus points, you need to create your own system according to the problem statement in Artemis.
-
-There are some functional requirements (FR) regarding the functions of your app, but is left open on purpose so you can get creative.
-However, we provide you with Non-Functional Requirements (NFR) that you need to fulfill. Additionally, you need to complete this README with the provided structure.
-
-## Submission procedure
-
-You get a **personal repository** on Artemis to work on your app. It is **necessary**, that the code compiles / runs on Artemis.
-Nonetheless, you should explain how to start the system locally.
-
-### Deadline: **13.01.2025 23:59**
-
-Until the deadline your final system **needs to fulfill** all the requested FRs and NFRs!
-
-## System description (max. 200 words)
+## System description
 
 This system simulates a Christmas market where users can purchase products from different vendors. The system includes entities such as `User`, `Vendor`, `Product`, and `Event`. Users can add products to their shopping cart, remove them, and proceed to checkout. The system also tracks the sales made by each vendor and allows users to consume the products they have purchased. The main goal is to provide a seamless shopping experience for users while managing the inventory and sales for vendors.
 
